@@ -23,6 +23,9 @@ Climate-friendly farming practices create healthier soils, which better defend c
 ## Overcoming barriers to wider adoption of climate-friendly practices
  ![Alt Text](table.png)
 
+## Increasing adoption of climate-friendly practices can significantly reduce agricultural greenhouse gas emissions in New York
+<iframe title="NY State Greenhouse Gas Emissions and Mitigation Opportunities" aria-label="Arrow Plot" id="datawrapper-chart-25OVv" src="https://datawrapper.dwcdn.net/25OVv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="302"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ## Building momentum for productive and profitable climate-friendly farming
 Making the transition from conventional to climate-friendly practices can be a challenging process. Existing NY programs should be revised, and new programs developed to help farmers to surmount these barriers and accelerate the benefits of healthy soils and natural systems:
@@ -35,4 +38,5 @@ Making the transition from conventional to climate-friendly practices can be a c
 * **Proposed Carbon Farming Act (2019)** – Offers farmers a tax credit for using practices with demonstrated GHG and carbon benefits; should include provisions that maintain stored C in existing forestland and high-carbon farmland.
 * **Proposed “Healthy Soils” state bills from Earthjustice, NOFA-NY, and Cornell** – Include incentives to support healthy soils such as long-term financial and transition assistance, more education, outreach and technical assistance.
 
-* Prepared by Sustainable Food and Farming Program, Earthjustice.
+
+*Prepared by Sustainable Food and Farming Program, Earthjustice.*
