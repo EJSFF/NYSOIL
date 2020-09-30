@@ -11,7 +11,7 @@ Climate change and weather shocks present a severe and immediate threat to New Y
 ## Agriculture contributes to climate change in NY. 
 Excessive fertilizer and animal manure applied to cropland emits nitrous oxide and methane, both very potent greenhouse gases (GHGs) that contribute to climate change. Land conversion and forest clearing releases previously unperturbed plant and soil carbon as carbon dioxide. In addition, every year NY loses many acres of farmland to development, increasing GHG emissions from the land. Altogether, the total cost of food is at least 2.5 times its market price including the hidden costs of environmental and health harms.  Numerous practices have been proven to reduce greenhouse gas emissions while improving farm resilience, productivity and profitability, but have yet to be widely adopted in New York. 
 
-Practice | US Adoption Rate | New York Adoption Rate
+**Practice**| **US Adoption Rate** | **New York Adoption Rate**
 Cover crops | 3% of all cropland acres | 5% of all cropland acres
 No-till | 25% of all cropland acres | 6% of all cropland acres
 Certified organic | <1% of all US farms | 3% of NY farms
@@ -25,7 +25,6 @@ Climate-friendly farming practices create healthier soils, which better defend c
 
 
 ## Building momentum for productive and profitable climate-friendly farming
-
 Making the transition from conventional to climate-friendly practices can be a challenging process. Existing NY programs should be revised, and new programs developed to help farmers to surmount these barriers and accelerate the benefits of healthy soils and natural systems:
 * Climate Resilient Farming Program – $2M per year for manure management, $1M for water quality, and $1M for improving soil health management; should increase funding for long-term transitions to climate-friendly farming. 
 * Clean Water Act – $15M per year; funds runoff reduction; should focus on long-term adoption of soil health practices.
