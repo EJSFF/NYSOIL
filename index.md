@@ -35,6 +35,4 @@ Making the transition from conventional to climate-friendly practices can be a c
 * **Proposed Carbon Farming Act (2019)** – Offers farmers a tax credit for using practices with demonstrated GHG and carbon benefits; should include provisions that maintain stored C in existing forestland and high-carbon farmland.
 * **Proposed “Healthy Soils” state bills from Earthjustice, NOFA-NY, and Cornell** – Include incentives to support healthy soils such as long-term financial and transition assistance, more education, outreach and technical assistance.
 
-[ALTERNATE TABLE OPTION]
-<iframe title="" aria-label="chart" id="datawrapper-chart-9vYRk" src="https://datawrapper.dwcdn.net/9vYRk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="945"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+* Prepared by Sustainable Food and Farming Program, Earthjustice.
