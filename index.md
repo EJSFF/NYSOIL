@@ -1,10 +1,10 @@
 # AGRICULTURE AND CLIMATE INSTABILITY IN NEW YORK: CHALLENGES AND SOLUTIONS
 
 ## Protecting farmers from climate instability
-Climate change and weather shocks present a severe and immediate threat to New York’s agricultural communities. With a quarter of the state’s land in crops (4.2 million acres) and grazing (2.7 million acres), and 160,000 jobs in NY agriculture, climate instability has a huge impact:
-* **Hurricane Irene cost $9.9M in farmland damage repair; extreme storms are more frequent and intense.** 
-* **Heat waves and rising temperatures would cost NY dairies $25M in production losses.**
-* **Climate instability will also bring new and tougher weeds, pests and diseases, such as Stewart’s wilt and late blight.**
+Climate change and weather shocks present a severe and immediate threat to New York’s agricultural communities. With 20% of the state’s land in farmland [(7 million acres)](https://agriculture.ny.gov/system/files/documents/2020/06/2019-annual-report.pdf), and [200,000 jobs](https://www.nyfb.org/about/about-ny-ag) associated with NY agriculture, climate instability will continue to pose significant threats. Climate change will impact both croplands and animal agriculture through compounding impacts:
+> **Increasingly frequent and intense extreme storms threaten production. [(e.g. Hurricane Irene cost $9.9M in farmland damage repair)](https://www.governor.ny.gov/sites/governor.ny.gov/files/archive/assets/documents/Irene-Lee-One-Year-Report.pdf)** 
+> **Heat waves and rising temperatures reduce dairy production efficiency, with sizable losses from heat stress [NYSERDA.](https://www.nyserda.ny.gov/-/media/Files/Publications/Research/Environmental/EMEP/climaid/ClimAID-Agriculture.pdf).**
+> **Climate instability will also bring new and tougher weeds, pests and diseases.**
  ![Alt Text](map.png)
  
 ## Agriculture contributes to climate change in New York 
