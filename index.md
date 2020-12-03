@@ -5,7 +5,7 @@ Climate change and weather shocks present a severe and immediate threat to New Y
 
 Climate change will impact both croplands and animal agriculture through compounding impacts:
 > * **Increasingly frequent and intense extreme storms threaten production. [(e.g. Hurricane Irene cost $9.9M in farmland damage repair.)](https://www.governor.ny.gov/sites/governor.ny.gov/files/archive/assets/documents/Irene-Lee-One-Year-Report.pdf)** 
-> * **Heat waves and rising temperatures reduce dairy production efficiency, with sizable losses from heat stress [(NYSERDA).](https://www.nyserda.ny.gov/-/media/Files/Publications/Research/Environmental/EMEP/climaid/ClimAID-Agriculture.pdf).**
+> * **Heat waves and rising temperatures reduce dairy production efficiency, with sizable losses from heat stress [(NYSERDA)](https://www.nyserda.ny.gov/-/media/Files/Publications/Research/Environmental/EMEP/climaid/ClimAID-Agriculture.pdf).**
 > * **Climate instability will also bring new and tougher weeds, pests and diseases.**
 
  ![Alt Text](map.png)
@@ -13,12 +13,14 @@ Climate change will impact both croplands and animal agriculture through compoun
 ## Agriculture contributes to climate change in New York 
 Excessive fertilizer and animal manure applied to cropland emits nitrous oxide and methane, both very potent greenhouse gases (GHGs) that contribute to climate change. Land conversion and forest clearing releases previously unperturbed plant and soil carbon as carbon dioxide. In addition, every year NY loses many acres of farmland to development, increasing GHG emissions from the land. Numerous practices have been proven to reduce greenhouse gas emissions while improving farm resilience, productivity and profitability, but have yet to be widely adopted in New York. 
 
+
 **Practice**| **US Adoption Rate** | **New York Adoption Rate**
 ------------|----------------------|-----------------------------
 Cover crops | 3% of all cropland acres | 7% of all cropland acres
 No-till | 25% of all cropland acres | 6% of all cropland acres
 Certified organic | <1% of all US farms | 3% of NY farms
 *[Data from USDA NASS.](https://www.nass.usda.gov/index.php)
+
 
 ## Benefits of climate-friendly farming
 Climate-friendly farming practices increase organic matter in soil and reduce nutrient losses. These practices better defend cropland to withstand floods, droughts, heatwaves and pests. Farmers can be among our best stewards of healthy, productive soil. Producer benefits of healthy soil practices, once established, include better yields, reduced input costs, build-up of fertile organic matter, greater resilience to weather impacts and a more diversified income stream. Public benefits include reduced GHG emissions, a more secure food supply, less water and air pollution, and less toxic chemical exposure. If these practices are adopted on a wide-scale, agriculture has the potential to be carbon-neutral and more productive.
