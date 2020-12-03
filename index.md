@@ -19,6 +19,7 @@ Excessive fertilizer and animal manure applied to cropland emits nitrous oxide a
 Cover crops | 3% of all cropland acres | 7% of all cropland acres
 No-till | 25% of all cropland acres | 6% of all cropland acres
 Certified organic | <1% of all US farms | 3% of NY farms
+
 *[Data from USDA NASS.](https://www.nass.usda.gov/index.php)
 
 
